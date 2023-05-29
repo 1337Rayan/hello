@@ -1,3 +1,12 @@
+#include <iostream>
+
+
 int main(){
-  
-  // rr
+
+    int d;
+
+    std::cin >> d;
+    printf("dwdw");
+    std::cout << "\n\n\n\n"<<  d;
+    return 0;
+}
